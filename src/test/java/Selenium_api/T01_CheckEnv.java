@@ -22,7 +22,7 @@ public class T01_CheckEnv {
         String homePageTitle = driver.getTitle();
         Assert.assertEquals(homePageTitle, "Guru99 Bank Home Page");
 
-        System.out.println("Check homepage urlmc");
+        System.out.println("Check homepage urc");
         String homePageUrl = driver.getCurrentUrl();
         Assert.assertEquals(homePageUrl, "http://demo.guru99.com/v4/");
     }
