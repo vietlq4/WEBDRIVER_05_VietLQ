@@ -1,0 +1,11 @@
+<suite name="Suite1" verbose="1" >
+    <test name="test1" >
+        <classes>
+            <class name ="Selenium_api.T01_CheckEnv"/>
+        </classes>
+    </test>
+
+    <test name="Regression1">
+
+    </test>
+</suite>
