@@ -9,5 +9,8 @@
         <module name="WEBDRIVER_05_VietLQ" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="WEBDRIVER_05_VietLQ" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,6 +2,7 @@ package Selenium_api;
 
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
@@ -29,8 +30,9 @@ public class T01_CheckEnv {
 
     @BeforeClass
     public void beforeClass() {
-        System.setProperty("webdriver.gecko.driver", "/Users/mrtun/Documents/soft/geckodriver");
-        driver = new FirefoxDriver();
+       // System.setProperty("webdriver.gecko.driver", "D:\\Serenity\\auto\\WEBDRIVER_05_VietLQ\\driver\\geckodriver.exe");
+        System.setProperty("webdriver.chrome.driver","D:\\Serenity\\auto\\WEBDRIVER_05_VietLQ\\driver\\chromedriver.exe");
+        driver = new ChromeDriver();
         driver.get("http://demo.guru99.com/v4/");
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         driver.manage().window().maximize();
