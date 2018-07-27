@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b478f852-f83f-4ce3-8a4a-6e4502cb9e84" name="Default" comment="comit project">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/WEBDRIVER_05_VietLQ-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/WEBDRIVER_05_VietLQ-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Selenium_api/T01_CheckEnv.class" afterPath="$PROJECT_DIR$/target/test-classes/Selenium_api/T01_CheckEnv.class" />
+    <list default="true" id="b478f852-f83f-4ce3-8a4a-6e4502cb9e84" name="Default" comment="commit TOPIC 02 - EXERCISE">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Selenium_api/T03_WebElement_Browser.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/Regression1.html" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/Regression1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/Regression1.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/Regression1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/test1.html" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/test1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/Suite1/test1.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite1/test1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Selenium_api.T01_CheckEnv.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-Selenium_api.T01_CheckEnv.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/classes.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/classes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/main.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-not-run.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods-not-run.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/testng.xml.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/toc.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite1/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T02_xpathcss.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="T02_xpathcss.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Selenium_api/T02_xpathcss.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="323">
+              <caret line="36" column="105" lean-forward="true" selection-start-line="36" selection-start-column="105" selection-end-line="36" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,12 +39,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <file leaf-file-name="T03_WebElement_Browser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Selenium_api/T03_WebElement_Browser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="449">
+              <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1089#1090#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,6 +65,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>package Selenium_api\;\n\nimport org\.openqa\.selenium\.WebDriver\;\nimport org\.openqa\.selenium\.chrome\.ChromeDriver\;\nimport org\.openqa\.selenium\.firefox\.FirefoxDriver\;\nimport org\.testng\.Assert\;\nimport org\.testng\.annotations\.AfterClass\;\nimport org\.testng\.annotations\.BeforeClass\;\nimport org\.testng\.annotations\.Test\;\n\nimport java\.util\.concurrent\.TimeUnit\;\n\npublic class T03_xpathcss \{\n    \n\n    \@BeforeClass\n    public void beforeClass\(\) \{\n        \/\/ System\.setProperty\(\&quot;webdriver\.gecko\.driver\&quot;\, \&quot;D\:\\\\Serenity\\\\auto\\\\WEBDRIVER_05_VietLQ\\\\driver\\\\geckodriver\.exe\&quot;\)\;\n        System\.setProperty\(\&quot;webdriver\.chrome\.driver\&quot;\,\&quot;D\:\\\\Serenity\\\\auto\\\\WEBDRIVER_05_VietLQ\\\\driver\\\\chromedriver\.exe\&quot;\)\;\n        driver \= new ChromeDriver\(\)\;\n        driver\.get\(\&quot;http\:\/\/demo\.guru99\.com\/v4\/\&quot;\)\;\n        driver\.manage\(\)\.timeouts\(\)\.implicitlyWait\(30\, TimeUnit\.SECONDS\)\;\n        driver\.manage\(\)\.window\(\)\.maximize\(\)\;\n    \}\n\n    \@AfterClass\n    public void afterClass\(\) \{\n        driver\.quit\(\)\;\n    \}\n    \n    \n    \n\}\n</find>
+      <find>/div[@id='advice-required-entry-email']</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/test/java/Selenium_api/T03_xpathcss.java" />
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Selenium_api/T02_xpathcss.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Selenium_api/T03_WebElement_Browser.java" />
       </list>
     </option>
   </component>
@@ -185,6 +162,11 @@
             <path>
               <item name="WEBDRIVER_05_VietLQ" type="b2602c69:ProjectViewProjectNode" />
               <item name="WEBDRIVER_05_VietLQ" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WEBDRIVER_05_VietLQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WEBDRIVER_05_VietLQ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,7 +234,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="Selenium_api" />
-      <option name="MAIN_CLASS_NAME" value="Selenium_api.T02_xpathcss" />
+      <option name="MAIN_CLASS_NAME" value="Selenium_api.T03_WebElement_Browser" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -348,7 +330,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531622273809</updated>
       <workItem from="1531622275495" duration="8964000" />
-      <workItem from="1531708782962" duration="15788000" />
+      <workItem from="1531708782962" duration="27397000" />
     </task>
     <task id="LOCAL-00001" summary="comit project">
       <created>1531632266139</created>
@@ -385,43 +367,57 @@
       <option name="project" value="LOCAL" />
       <updated>1532319260527</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit TOPIC 02 - EXERCISE">
+      <created>1532335496168</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532335496168</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit TOPIC 02 - EXERCISE">
+      <created>1532400450670</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532400450670</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2018.07.23 at 14h 35m 35s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 32m 04s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 38m 46s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 33m 59s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 42m 02s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 35m 09s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 43m 54s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 35m 25s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 44m 09s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 35m 53s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 48m 22s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 36m 14s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 56m 09s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 50m 47s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 58m 28s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 51m 49s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 14h 59m 00s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 15h 52m 30s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.07.23 at 15h 43m 46s.xml">
+    <history-entry file="Unnamed - 2018.07.27 at 17h 41m 38s.xml">
       <configuration name="Unnamed" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24752000" />
+    <option name="totallyTimeSpent" value="36361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-60" width="1936" height="1056" extended-state="6" />
@@ -464,7 +460,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="comit project" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit project" />
+    <MESSAGE value="commit TOPIC 02 - EXERCISE" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit TOPIC 02 - EXERCISE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -533,10 +530,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Selenium_api/T02_xpathcss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="323">
+          <caret line="36" column="105" lean-forward="true" selection-start-line="36" selection-start-column="105" selection-end-line="36" selection-end-column="105" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Selenium_api/T03_WebElement_Browser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="111" column="0" lean-forward="true" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
           </folding>
         </state>
       </provider>
